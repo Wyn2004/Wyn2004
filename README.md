@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wyn2004" alt="wyn2004" /></a> </p>
 
-- 💬 Ask me about **react, nest, flutter...**
-
 - 📫 How to reach me **thang09052004@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
